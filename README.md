@@ -12,3 +12,9 @@
 如下：
 ![image](https://github.com/user-attachments/assets/9d966ec2-f01d-4af9-844f-ba3e87dc7a24)
 5.鼠标右键点击运行该脚本即可在控制台看到效果。
+
+## 3.效果展示（登录）：（增删改查功能都有，代码有注释，逻辑都能看得懂）
+管理员登录显示：
+![image](https://github.com/user-attachments/assets/040255a7-8474-4036-967b-0c65d05ae05d)
+普通用户登录显示：
+![image](https://github.com/user-attachments/assets/fddee567-4074-455d-9615-723911b7ada8)
