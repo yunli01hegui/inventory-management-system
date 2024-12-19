@@ -5,7 +5,7 @@
 ![image](https://github.com/user-attachments/assets/f69cc0ca-b1e9-489b-b4ac-6c663c721b62)
 
 ## 2.运行项目：
-1.项目根目录的.sql脚本拿去数据库里跑一下。
+1.项目根目录的mysql.sql脚本拿去mysql或者navicat里跑一下。
 2.整个项目放在idea里面配置好java环境打开InventoryManagement.java。
 3.第七行：private static final String JDBC_USERNAME = "root"; 引号里面改成自己数据库的用户名。
 4.第八行：private static final String JDBC_PASSWORD = "root"; 引号里面改成自己数据库的密码。
@@ -15,6 +15,9 @@
 
 ## 3.效果展示（登录）：（增删改查功能都有，代码有注释，逻辑都能看得懂）
 管理员登录显示：
+
 ![image](https://github.com/user-attachments/assets/040255a7-8474-4036-967b-0c65d05ae05d)
+
 普通用户登录显示：
+
 ![image](https://github.com/user-attachments/assets/fddee567-4074-455d-9615-723911b7ada8)
